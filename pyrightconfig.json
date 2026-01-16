@@ -1,0 +1,13 @@
+{
+    "pythonPath": "/Users/karthik/Downloads/face-attendance-system 1221/venv/bin/python",
+    "extraPaths": [
+        "/Users/karthik/Downloads/face-attendance-system 1221/venv/lib/python3.9/site-packages",
+        "/Users/karthik/Downloads/face-attendance-system 1221/src"
+    ],
+    "executionEnvironments": [
+        {
+            "root": ".",
+            "pythonPath": "/Users/karthik/Downloads/face-attendance-system 1221/venv/bin/python"
+        }
+    ]
+}

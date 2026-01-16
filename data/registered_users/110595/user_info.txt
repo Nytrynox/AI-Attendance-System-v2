@@ -1,0 +1,7 @@
+Name: hjg
+ID: 110595
+Registration Date: 2025-07-20T20:56:34.957528
+Liveness Verified: Yes
+Blinks Detected: 1
+Head Movement: No
+Analysis Duration: 3.0 seconds

@@ -1,0 +1,31 @@
+{
+	"enabled": true,
+	"use_ip_location": true,
+	"use_manual_location": true,
+	"manual_location": {
+		"building_name": "Main Office Building",
+		"floor": "Ground Floor",
+		"room": "Reception Area",
+		"address": "123 Business Street, City, State 12345",
+		"coordinates": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"contact_info": {
+			"security_phone": "+1-XXX-XXX-XXXX",
+			"office_phone": "+1-XXX-XXX-XXXX"
+		}
+	},
+	"fallback_location": "Face Attendance System - Location Unknown",
+	"location_services": {
+		"ipapi_enabled": true,
+		"ipgeolocation_enabled": false,
+		"ipgeolocation_api_key": ""
+	},
+	"notes": [
+		"Set manual_location details for your specific installation",
+		"IP-based location provides approximate location based on internet connection",
+		"For precise location, update manual_location coordinates",
+		"You can get coordinates from Google Maps or GPS devices"
+	]
+}

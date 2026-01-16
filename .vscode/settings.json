@@ -1,0 +1,14 @@
+{
+    "python.defaultInterpreterPath": "/Users/karthik/Downloads/face-attendance-system 1221/venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.extraPaths": [
+        "/Users/karthik/Downloads/face-attendance-system 1221/venv/lib/python3.9/site-packages",
+        "/Users/karthik/Downloads/face-attendance-system 1221/src"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.stubPath": "/Users/karthik/Downloads/face-attendance-system 1221/venv/lib/python3.9/site-packages"
+}

@@ -1,0 +1,7 @@
+Name: praveen
+ID: 407818
+Registration Date: 2025-07-21T10:54:21.071502
+Liveness Verified: Yes
+Blinks Detected: 1
+Head Movement: Yes
+Analysis Duration: 3.0 seconds

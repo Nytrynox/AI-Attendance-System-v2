@@ -1,0 +1,7 @@
+Name: ss
+ID: 908346
+Registration Date: 2025-09-10T14:50:08.046706
+Liveness Verified: Yes
+Blinks Detected: 1
+Head Movement: No
+Analysis Duration: 3.0 seconds

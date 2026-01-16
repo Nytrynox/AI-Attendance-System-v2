@@ -1,0 +1,166 @@
+2025-07-21 10:53:41,837 - __main__ - INFO - Initializing Facial Attendance System...
+2025-07-21 10:53:42,329 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-07-21 10:53:42,329 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-21 10:53:42,334 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-07-21 10:53:42,334 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-07-21 10:53:42,334 - src.face_recognizer - INFO - Reloaded 2 user face encodings
+2025-07-21 10:53:43,467 - src.sound_manager - INFO - Pygame mixer initialized successfully
+2025-07-21 10:53:43,470 - src.email_notification - INFO - Email configuration loaded
+2025-07-21 10:53:43,472 - src.location_service - INFO - Location configuration loaded
+2025-07-21 10:53:43,472 - src.location_service - INFO - Location service enabled
+2025-07-21 10:53:43,472 - src.email_notification - INFO - Location service initialized for email notifications
+2025-07-21 10:53:43,472 - src.email_notification - INFO - Email notifications enabled
+2025-07-21 10:53:43,472 - __main__ - INFO - Loading registered user data...
+2025-07-21 10:53:43,476 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-21 10:53:43,476 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-07-21 10:53:43,476 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-07-21 10:53:43,476 - src.face_recognizer - INFO - Reloaded 2 user face encodings
+2025-07-21 10:53:43,476 - __main__ - INFO - Successfully loaded 2 registered users
+2025-07-21 10:53:43,476 - __main__ - INFO -   - jh (ID: 921740) - Encoding ready
+2025-07-21 10:53:43,476 - __main__ - INFO -   - hjg (ID: 110595) - Encoding ready
+2025-07-21 10:53:43,476 - __main__ - INFO - System initialization completed successfully
+2025-07-21 10:53:43,476 - __main__ - INFO - Starting in GUI mode
+2025-07-21 10:53:43,482 - __main__ - INFO - Loading Complete GUI
+2025-07-21 10:53:44,377 - src.sound_manager - INFO - Pygame mixer initialized successfully
+2025-07-21 10:53:44,378 - src.email_notification - INFO - Email configuration loaded
+2025-07-21 10:53:44,378 - src.location_service - INFO - Location configuration loaded
+2025-07-21 10:53:44,378 - src.location_service - INFO - Location service enabled
+2025-07-21 10:53:44,378 - src.email_notification - INFO - Location service initialized for email notifications
+2025-07-21 10:53:44,378 - src.email_notification - INFO - Email notifications enabled
+2025-07-21 10:53:44,378 - src.security_event_handler - INFO - Security Event Handler initialized
+2025-07-21 10:53:44,378 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-21 10:53:44,378 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-07-21 10:53:44,378 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-07-21 10:53:44,378 - src.face_recognizer - INFO - Reloaded 2 user face encodings
+2025-07-21 10:53:50,275 - face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-07-21 10:53:50,276 - face_recognizer - INFO - Cleared all known face encodings
+2025-07-21 10:53:50,277 - face_recognizer - INFO - Loaded encoding for user 921740
+2025-07-21 10:53:50,277 - face_recognizer - INFO - Loaded encoding for user 110595
+2025-07-21 10:53:50,277 - face_recognizer - INFO - Reloaded 2 user face encodings
+2025-07-21 10:54:23,024 - face_recognizer - INFO - Cleared all known face encodings
+2025-07-21 10:54:23,025 - face_recognizer - INFO - Loaded encoding for user 921740
+2025-07-21 10:54:23,025 - face_recognizer - INFO - Loaded encoding for user 407818
+2025-07-21 10:54:23,025 - face_recognizer - INFO - Loaded encoding for user 110595
+2025-07-21 10:54:23,025 - face_recognizer - INFO - Reloaded 3 user face encodings
+2025-07-21 10:54:25,101 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-21 10:54:25,103 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-07-21 10:54:25,103 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-07-21 10:54:25,103 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-07-21 10:54:25,103 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-07-21 10:54:25,119 - __main__ - INFO - Application closed normally
+2025-07-21 10:54:54,769 - __main__ - INFO - Initializing Facial Attendance System...
+2025-07-21 10:54:55,212 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-07-21 10:54:55,212 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-21 10:54:55,213 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-07-21 10:54:55,213 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-07-21 10:54:55,213 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-07-21 10:54:55,213 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-07-21 10:54:55,924 - src.sound_manager - INFO - Pygame mixer initialized successfully
+2025-07-21 10:54:55,925 - src.email_notification - INFO - Email configuration loaded
+2025-07-21 10:54:55,925 - src.location_service - INFO - Location configuration loaded
+2025-07-21 10:54:55,925 - src.location_service - INFO - Location service enabled
+2025-07-21 10:54:55,925 - src.email_notification - INFO - Location service initialized for email notifications
+2025-07-21 10:54:55,925 - src.email_notification - INFO - Email notifications enabled
+2025-07-21 10:54:55,925 - __main__ - INFO - Loading registered user data...
+2025-07-21 10:54:55,925 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-21 10:54:55,925 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-07-21 10:54:55,925 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-07-21 10:54:55,925 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-07-21 10:54:55,925 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-07-21 10:54:55,925 - __main__ - INFO - Successfully loaded 3 registered users
+2025-07-21 10:54:55,925 - __main__ - INFO -   - jh (ID: 921740) - Encoding ready
+2025-07-21 10:54:55,925 - __main__ - INFO -   - praveen (ID: 407818) - Encoding ready
+2025-07-21 10:54:55,926 - __main__ - INFO -   - hjg (ID: 110595) - Encoding ready
+2025-07-21 10:54:55,926 - __main__ - INFO - System initialization completed successfully
+2025-07-21 10:54:55,926 - __main__ - INFO - Starting in GUI mode
+2025-07-21 10:54:55,927 - __main__ - INFO - Loading Complete GUI
+2025-07-21 10:54:56,576 - src.sound_manager - INFO - Pygame mixer initialized successfully
+2025-07-21 10:54:56,576 - src.email_notification - INFO - Email configuration loaded
+2025-07-21 10:54:56,576 - src.location_service - INFO - Location configuration loaded
+2025-07-21 10:54:56,576 - src.location_service - INFO - Location service enabled
+2025-07-21 10:54:56,576 - src.email_notification - INFO - Location service initialized for email notifications
+2025-07-21 10:54:56,576 - src.email_notification - INFO - Email notifications enabled
+2025-07-21 10:54:56,576 - src.security_event_handler - INFO - Security Event Handler initialized
+2025-07-21 10:54:56,576 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-21 10:54:56,577 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-07-21 10:54:56,577 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-07-21 10:54:56,577 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-07-21 10:54:56,577 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-07-21 10:55:29,295 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-21 10:55:29,296 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-07-21 10:55:29,296 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-07-21 10:55:29,296 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-07-21 10:55:29,296 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-07-21 10:55:29,328 - src.security_event_handler - INFO - ✅ Successful attendance: praveen (407818) (confidence: 0.53)
+2025-07-21 10:55:29,328 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-07-21 10:55:29,701 - src.security_event_handler - WARNING - 🚫 SPOOF ATTEMPT: Person at position (0,161) - Face size: 167x151 - Phone Screen (score: 0.48)
+2025-07-21 10:55:29,702 - src.email_notification - INFO - Sending spoof alert email for: Person at position (0,161) - Face size: 167x151 (Type: Phone Screen, Confidence: 0.48)
+2025-07-21 10:55:29,705 - src.sound_manager - INFO - Playing spoof sound for 2.0 seconds
+2025-07-21 10:55:29,707 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250721_105529_spoof_attempt.jpg
+2025-07-21 10:55:29,707 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250721_105529_spoof_attempt.jpg
+2025-07-21 10:55:29,707 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250721_105529.jpg (size: 142137 bytes)
+2025-07-21 10:55:29,707 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-07-21 10:55:31,133 - src.security_event_handler - INFO - ✅ Successful attendance: praveen (407818) (confidence: 0.58)
+2025-07-21 10:55:31,146 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-07-21 10:55:33,249 - src.security_event_handler - INFO - ✅ Successful attendance: praveen (407818) (confidence: 0.67)
+2025-07-21 10:55:33,249 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-07-21 10:55:33,891 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-07-21 10:55:35,331 - src.security_event_handler - INFO - ✅ Successful attendance: praveen (407818) (confidence: 0.69)
+2025-07-21 10:55:35,331 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-07-21 10:55:37,410 - src.security_event_handler - INFO - ✅ Successful attendance: praveen (407818) (confidence: 0.65)
+2025-07-21 10:55:37,410 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-07-21 10:55:39,484 - src.security_event_handler - INFO - ✅ Successful attendance: praveen (407818) (confidence: 0.66)
+2025-07-21 10:55:39,484 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-07-21 10:55:39,794 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Read timed out. (read timeout=10)
+2025-07-21 10:55:39,879 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-07-21 10:55:40,275 - src.location_service - INFO - IP location obtained: Rajkot, Gujarat
+2025-07-21 10:55:40,282 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250721_105540.jpg
+2025-07-21 10:55:41,114 - src.security_event_handler - WARNING - 🚫 SPOOF ATTEMPT: Person at position (486,141) - Face size: 88x87 - Phone Screen (score: 0.48)
+2025-07-21 10:55:41,114 - src.email_notification - INFO - Sending spoof alert email for: Person at position (486,141) - Face size: 88x87 (Type: Phone Screen, Confidence: 0.48)
+2025-07-21 10:55:41,116 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250721_105541.jpg (size: 124253 bytes)
+2025-07-21 10:55:41,116 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-07-21 10:55:41,121 - src.sound_manager - INFO - Playing spoof sound for 2.0 seconds
+2025-07-21 10:55:41,122 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250721_105541_spoof_attempt.jpg
+2025-07-21 10:55:41,122 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250721_105541_spoof_attempt.jpg
+2025-07-21 10:55:41,502 - src.location_service - INFO - IP location obtained: Rajkot, Gujarat
+2025-07-21 10:55:41,503 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-07-21 10:55:41,722 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-07-21 10:55:41,732 - src.security_event_handler - INFO - ✅ Successful attendance: praveen (407818) (confidence: 0.42)
+2025-07-21 10:55:41,745 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-07-21 10:55:41,893 - src.location_service - INFO - IP location obtained: Rajkot, Gujarat
+2025-07-21 10:55:41,897 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250721_105541.jpg
+2025-07-21 10:55:44,042 - src.security_event_handler - WARNING - 🚫 SPOOF ATTEMPT: Person at position (369,24) - Face size: 126x125 - Phone Screen (score: 0.48)
+2025-07-21 10:55:44,042 - src.sound_manager - INFO - Playing spoof sound for 2.0 seconds
+2025-07-21 10:55:44,042 - src.email_notification - INFO - Sending spoof alert email for: Person at position (369,24) - Face size: 126x125 (Type: Phone Screen, Confidence: 0.48)
+2025-07-21 10:55:44,043 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250721_105544_spoof_attempt.jpg
+2025-07-21 10:55:44,043 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250721_105544_spoof_attempt.jpg
+2025-07-21 10:55:44,044 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250721_105544.jpg (size: 127762 bytes)
+2025-07-21 10:55:44,044 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-07-21 10:55:44,422 - src.location_service - INFO - IP location obtained: Rajkot, Gujarat
+2025-07-21 10:55:44,423 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-07-21 10:55:44,520 - src.security_event_handler - INFO - ✅ Successful attendance: praveen (407818) (confidence: 0.58)
+2025-07-21 10:55:44,531 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-07-21 10:55:44,810 - src.location_service - INFO - IP location obtained: Rajkot, Gujarat
+2025-07-21 10:55:44,813 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250721_105544.jpg
+2025-07-21 10:55:45,706 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-07-21 10:55:45,717 - src.security_event_handler - INFO - ✅ Successful attendance: jh (921740) (confidence: 0.59)
+2025-07-21 10:55:45,727 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-07-21 10:55:45,898 - src.email_notification - INFO - Spoof alert email sent successfully to 2 recipients
+2025-07-21 10:55:46,105 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-07-21 10:55:46,546 - src.security_event_handler - CRITICAL - 🚨 SECURITY ALERT: Person at position (369,24) - Face size: 126x125 - Repeated spoof attempts from Person at position (369,24) - Face size: 126x125
+2025-07-21 10:55:46,546 - src.email_notification - INFO - Sending spoof alert email for: 🚨 URGENT - Person at position (369,24) - Face size: 126x125 (Reason: Repeated spoof attempts from Person at position (369,24) - Face size: 126x125)
+2025-07-21 10:55:46,548 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250721_105546.jpg (size: 127358 bytes)
+2025-07-21 10:55:46,549 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-07-21 10:55:46,553 - src.sound_manager - INFO - Playing siren sound for 2.0 seconds
+2025-07-21 10:55:46,555 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250721_105546_siren_attempt.jpg
+2025-07-21 10:55:46,555 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250721_105546_siren_attempt.jpg
+2025-07-21 10:55:46,643 - src.security_event_handler - INFO - ✅ Successful attendance: praveen (407818) (confidence: 0.63)
+2025-07-21 10:55:46,654 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-07-21 10:55:46,943 - src.location_service - INFO - IP location obtained: Rajkot, Gujarat
+2025-07-21 10:55:46,945 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-07-21 10:55:47,330 - src.location_service - INFO - IP location obtained: Rajkot, Gujarat
+2025-07-21 10:55:47,334 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250721_105547.jpg
+2025-07-21 10:55:47,629 - src.email_notification - INFO - Spoof alert email sent successfully to 2 recipients
+2025-07-21 10:55:47,849 - src.security_event_handler - INFO - ✅ Successful attendance: jh (921740) (confidence: 0.64)
+2025-07-21 10:55:47,861 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-07-21 10:55:48,534 - __main__ - INFO - Application closed normally

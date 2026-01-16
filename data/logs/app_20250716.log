@@ -1,0 +1,43 @@
+2025-07-16 16:32:56,923 - __main__ - INFO - Initializing Facial Attendance System...
+2025-07-16 16:33:01,107 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-07-16 16:33:01,108 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-16 16:33:01,142 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-07-16 16:33:01,143 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-07-16 16:33:05,576 - __main__ - INFO - System initialization completed successfully
+2025-07-16 16:33:05,581 - __main__ - INFO - Starting in GUI mode
+2025-07-16 16:33:05,624 - __main__ - INFO - Loading Complete GUI
+2025-07-16 16:33:13,320 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-07-16 16:33:13,325 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-16 16:33:13,334 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-07-16 16:33:13,335 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-07-16 16:33:14,159 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-16 16:33:14,165 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-07-16 16:33:14,166 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-07-16 16:33:47,012 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-07-16 16:33:48,179 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-07-16 16:33:50,325 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-07-16 16:33:52,397 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-07-16 16:33:53,423 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-07-16 16:33:54,431 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-07-16 16:34:08,199 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-07-16 16:34:21,936 - __main__ - INFO - Application closed normally
+2025-07-16 16:35:11,636 - __main__ - INFO - Initializing Facial Attendance System...
+2025-07-16 16:35:15,820 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-07-16 16:35:15,822 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-16 16:35:15,842 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-07-16 16:35:15,843 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-07-16 16:35:20,388 - __main__ - INFO - System initialization completed successfully
+2025-07-16 16:35:20,393 - __main__ - INFO - Starting in GUI mode
+2025-07-16 16:35:20,456 - __main__ - INFO - Loading Complete GUI
+2025-07-16 16:35:26,297 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-07-16 16:35:26,300 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-16 16:35:26,317 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-07-16 16:35:26,318 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-07-16 16:35:27,233 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-16 16:35:27,254 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-07-16 16:35:27,255 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-07-16 16:36:37,365 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-07-16 16:36:37,365 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-07-16 16:36:37,421 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-07-16 16:36:37,422 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-07-16 16:37:03,700 - __main__ - INFO - Application closed normally

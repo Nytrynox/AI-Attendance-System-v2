@@ -1,0 +1,456 @@
+2025-08-17 21:11:25,427 - __main__ - INFO - Initializing Facial Attendance System...
+2025-08-17 21:11:25,896 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-08-17 21:11:25,896 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-08-17 21:11:25,900 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-08-17 21:11:25,900 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-08-17 21:11:25,900 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-08-17 21:11:25,900 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-08-17 21:11:26,556 - src.sound_manager - INFO - Pygame mixer initialized successfully
+2025-08-17 21:11:26,556 - src.email_notification - INFO - Email configuration loaded
+2025-08-17 21:11:26,557 - src.location_service - INFO - Location configuration loaded
+2025-08-17 21:11:26,557 - src.location_service - INFO - Location service enabled
+2025-08-17 21:11:26,557 - src.email_notification - INFO - Location service initialized for email notifications
+2025-08-17 21:11:26,557 - src.email_notification - INFO - Email notifications enabled
+2025-08-17 21:11:26,557 - __main__ - INFO - Loading registered user data...
+2025-08-17 21:11:26,557 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-08-17 21:11:26,557 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-08-17 21:11:26,557 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-08-17 21:11:26,557 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-08-17 21:11:26,558 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-08-17 21:11:26,558 - __main__ - INFO - Successfully loaded 3 registered users
+2025-08-17 21:11:26,558 - __main__ - INFO -   - jh (ID: 921740) - Encoding ready
+2025-08-17 21:11:26,558 - __main__ - INFO -   - praveen (ID: 407818) - Encoding ready
+2025-08-17 21:11:26,558 - __main__ - INFO -   - hjg (ID: 110595) - Encoding ready
+2025-08-17 21:11:26,558 - __main__ - INFO - System initialization completed successfully
+2025-08-17 21:11:26,558 - __main__ - INFO - Starting in GUI mode
+2025-08-17 21:11:26,560 - __main__ - INFO - Loading Complete GUI
+2025-08-17 21:11:27,712 - src.sound_manager - INFO - Pygame mixer initialized successfully
+2025-08-17 21:11:27,712 - src.email_notification - INFO - Email configuration loaded
+2025-08-17 21:11:27,713 - src.location_service - INFO - Location configuration loaded
+2025-08-17 21:11:27,713 - src.location_service - INFO - Location service enabled
+2025-08-17 21:11:27,713 - src.email_notification - INFO - Location service initialized for email notifications
+2025-08-17 21:11:27,713 - src.email_notification - INFO - Email notifications enabled
+2025-08-17 21:11:27,713 - src.security_event_handler - INFO - Security Event Handler initialized
+2025-08-17 21:11:27,713 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-08-17 21:11:27,713 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-08-17 21:11:27,713 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-08-17 21:11:27,713 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-08-17 21:11:27,713 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-08-17 21:11:58,054 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-08-17 21:11:58,071 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-08-17 21:11:58,071 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-08-17 21:11:58,071 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-08-17 21:11:58,071 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-08-17 21:11:58,071 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:11:58,071 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:11:58,093 - src.sound_manager - INFO - Playing unknown sound for 2.0 seconds
+2025-08-17 21:11:58,093 - src.security_event_handler - INFO - ❓ Unknown user detected
+2025-08-17 21:11:58,096 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:11:58,096 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:11:58,678 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:11:58,711 - src.security_event_handler - INFO - ✅ Successful attendance: jh (921740) (confidence: 0.63)
+2025-08-17 21:11:58,722 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-08-17 21:11:58,808 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:11:58,940 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:11:59,038 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:11:59,131 - src.security_event_handler - WARNING - 🚫 SPOOF ATTEMPT: Person at position (394,45) - Face size: 150x150 - Phone Screen (score: 0.80)
+2025-08-17 21:11:59,131 - src.email_notification - INFO - Sending spoof alert email for: Person at position (394,45) - Face size: 150x150 (Type: Phone Screen, Confidence: 0.80)
+2025-08-17 21:11:59,136 - src.sound_manager - INFO - Playing spoof sound for 2.0 seconds
+2025-08-17 21:11:59,139 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250817_211159_spoof_attempt.jpg
+2025-08-17 21:11:59,139 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250817_211159_spoof_attempt.jpg
+2025-08-17 21:11:59,139 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250817_211159.jpg (size: 125552 bytes)
+2025-08-17 21:11:59,139 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:11:59,147 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x15316e370>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:11:59,239 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:11:59,241 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x153161100>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:11:59,245 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250817_211159.jpg
+2025-08-17 21:11:59,246 - src.email_notification - ERROR - Failed to send spoof alert email: [Errno 8] nodename nor servname provided, or not known
+2025-08-17 21:11:59,405 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:11:59,577 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:11:59,578 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:11:59,809 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:11:59,809 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,015 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,015 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,015 - src.security_event_handler - INFO - ❓ Unknown user detected
+2025-08-17 21:12:00,018 - src.sound_manager - INFO - Playing unknown sound for 2.0 seconds
+2025-08-17 21:12:00,107 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,107 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,172 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,172 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,279 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,279 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,382 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,382 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,513 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,513 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,513 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,513 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,634 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,634 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,731 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,731 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,937 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:00,937 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:02,037 - src.security_event_handler - WARNING - 🚫 SPOOF ATTEMPT: Person at position (93,65) - Face size: 125x125 - Phone Screen (score: 0.80)
+2025-08-17 21:12:02,037 - src.sound_manager - INFO - Playing spoof sound for 2.0 seconds
+2025-08-17 21:12:02,037 - src.email_notification - INFO - Sending spoof alert email for: Person at position (93,65) - Face size: 125x125 (Type: Phone Screen, Confidence: 0.80)
+2025-08-17 21:12:02,038 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250817_211202_spoof_attempt.jpg
+2025-08-17 21:12:02,038 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250817_211202_spoof_attempt.jpg
+2025-08-17 21:12:02,039 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250817_211202.jpg (size: 125290 bytes)
+2025-08-17 21:12:02,039 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:02,041 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fb47f0>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:02,043 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:02,045 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fbd190>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:02,049 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250817_211202.jpg
+2025-08-17 21:12:02,050 - src.email_notification - ERROR - Failed to send spoof alert email: [Errno 8] nodename nor servname provided, or not known
+2025-08-17 21:12:02,555 - src.security_event_handler - INFO - ✅ Successful attendance: jh (921740) (confidence: 0.44)
+2025-08-17 21:12:02,568 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-08-17 21:12:04,045 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:04,060 - src.security_event_handler - INFO - ❓ Unknown user detected (confidence: 0.25)
+2025-08-17 21:12:04,072 - src.sound_manager - INFO - Playing unknown sound for 2.0 seconds
+2025-08-17 21:12:04,141 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:04,244 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:04,443 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:04,680 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:05,070 - src.security_event_handler - WARNING - 🚫 SPOOF ATTEMPT: Person at position (93,93) - Face size: 125x125 - Phone Screen (score: 0.80)
+2025-08-17 21:12:05,070 - src.email_notification - INFO - Sending spoof alert email for: Person at position (93,93) - Face size: 125x125 (Type: Phone Screen, Confidence: 0.80)
+2025-08-17 21:12:05,072 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250817_211205.jpg (size: 119493 bytes)
+2025-08-17 21:12:05,072 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:05,074 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fb4250>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:05,076 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:05,077 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x15316ee80>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:05,080 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250817_211205.jpg
+2025-08-17 21:12:05,081 - src.email_notification - ERROR - Failed to send spoof alert email: [Errno 8] nodename nor servname provided, or not known
+2025-08-17 21:12:05,082 - src.sound_manager - INFO - Playing spoof sound for 2.0 seconds
+2025-08-17 21:12:05,084 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250817_211205_spoof_attempt.jpg
+2025-08-17 21:12:05,085 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250817_211205_spoof_attempt.jpg
+2025-08-17 21:12:05,679 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:05,679 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:06,118 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:06,129 - src.security_event_handler - INFO - ✅ Successful attendance: jh (921740) (confidence: 0.60)
+2025-08-17 21:12:06,139 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-08-17 21:12:06,414 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:06,740 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:06,740 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:06,741 - src.security_event_handler - INFO - ❓ Unknown user detected
+2025-08-17 21:12:06,741 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:06,741 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:06,753 - src.sound_manager - INFO - Playing unknown sound for 2.0 seconds
+2025-08-17 21:12:07,576 - src.security_event_handler - CRITICAL - 🚨 SECURITY ALERT: Person at position (93,93) - Face size: 125x125 - Repeated spoof attempts from Person at position (93,93) - Face size: 125x125
+2025-08-17 21:12:07,576 - src.email_notification - INFO - Sending spoof alert email for: 🚨 URGENT - Person at position (93,93) - Face size: 125x125 (Reason: Repeated spoof attempts from Person at position (93,93) - Face size: 125x125)
+2025-08-17 21:12:07,578 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250817_211207.jpg (size: 119154 bytes)
+2025-08-17 21:12:07,578 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:07,578 - src.sound_manager - INFO - Playing siren sound for 2.0 seconds
+2025-08-17 21:12:07,579 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fc01c0>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:07,580 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250817_211207_siren_attempt.jpg
+2025-08-17 21:12:07,580 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250817_211207_siren_attempt.jpg
+2025-08-17 21:12:07,580 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:07,582 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fc7a90>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:07,584 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250817_211207.jpg
+2025-08-17 21:12:07,585 - src.email_notification - ERROR - Failed to send spoof alert email: [Errno 8] nodename nor servname provided, or not known
+2025-08-17 21:12:08,164 - src.security_event_handler - INFO - ✅ Successful attendance: jh (921740) (confidence: 0.66)
+2025-08-17 21:12:08,174 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-08-17 21:12:09,174 - src.security_event_handler - WARNING - 🚫 SPOOF ATTEMPT: Person at position (352,90) - Face size: 216x216 - Phone Screen (score: 0.80)
+2025-08-17 21:12:09,175 - src.email_notification - INFO - Sending spoof alert email for: Person at position (352,90) - Face size: 216x216 (Type: Phone Screen, Confidence: 0.80)
+2025-08-17 21:12:09,177 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250817_211209.jpg (size: 128623 bytes)
+2025-08-17 21:12:09,177 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:09,178 - src.sound_manager - INFO - Playing spoof sound for 2.0 seconds
+2025-08-17 21:12:09,179 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fc0670>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:09,180 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:09,180 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250817_211209_spoof_attempt.jpg
+2025-08-17 21:12:09,180 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250817_211209_spoof_attempt.jpg
+2025-08-17 21:12:09,181 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fb4280>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:09,184 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250817_211209.jpg
+2025-08-17 21:12:09,185 - src.email_notification - ERROR - Failed to send spoof alert email: [Errno 8] nodename nor servname provided, or not known
+2025-08-17 21:12:10,335 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:10,335 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:10,336 - src.security_event_handler - INFO - ❓ Unknown user detected
+2025-08-17 21:12:10,336 - src.sound_manager - INFO - Playing unknown sound for 2.0 seconds
+2025-08-17 21:12:11,190 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:11,204 - src.security_event_handler - INFO - ✅ Successful attendance: hjg (110595) (confidence: 0.60)
+2025-08-17 21:12:11,216 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-08-17 21:12:11,289 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:11,393 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:11,393 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:11,493 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:11,493 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:11,593 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:11,593 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:11,692 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:11,692 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:11,792 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:11,891 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:11,988 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:12,092 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:12,192 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:12,290 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:12,393 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:12,491 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:12,491 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:12,492 - src.security_event_handler - INFO - ❓ Unknown user detected
+2025-08-17 21:12:12,501 - src.sound_manager - INFO - Playing unknown sound for 2.0 seconds
+2025-08-17 21:12:12,525 - src.security_event_handler - CRITICAL - 🚨 SECURITY ALERT: Person at position (281,66) - Face size: 216x216 - Repeated spoof attempts from Person at position (281,66) - Face size: 216x216
+2025-08-17 21:12:12,525 - src.email_notification - INFO - Sending spoof alert email for: 🚨 URGENT - Person at position (281,66) - Face size: 216x216 (Reason: Repeated spoof attempts from Person at position (281,66) - Face size: 216x216)
+2025-08-17 21:12:12,526 - src.sound_manager - INFO - Playing siren sound for 2.0 seconds
+2025-08-17 21:12:12,527 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250817_211212.jpg (size: 123951 bytes)
+2025-08-17 21:12:12,527 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:12,527 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250817_211212_siren_attempt.jpg
+2025-08-17 21:12:12,527 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250817_211212_siren_attempt.jpg
+2025-08-17 21:12:12,528 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fb9820>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:12,530 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:12,531 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fd07c0>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:12,534 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250817_211212.jpg
+2025-08-17 21:12:12,534 - src.email_notification - ERROR - Failed to send spoof alert email: [Errno 8] nodename nor servname provided, or not known
+2025-08-17 21:12:12,563 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:12,576 - src.security_event_handler - WARNING - 🚫 SPOOF ATTEMPT: Person at position (0,29) - Face size: 167x150 - Phone Screen (score: 0.80)
+2025-08-17 21:12:12,576 - src.email_notification - INFO - Sending spoof alert email for: Person at position (0,29) - Face size: 167x150 (Type: Phone Screen, Confidence: 0.80)
+2025-08-17 21:12:12,578 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250817_211212.jpg (size: 132300 bytes)
+2025-08-17 21:12:12,578 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:12,580 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fb98b0>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:12,581 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:12,583 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fc75e0>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:12,586 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250817_211212.jpg
+2025-08-17 21:12:12,586 - src.sound_manager - INFO - Playing spoof sound for 2.0 seconds
+2025-08-17 21:12:12,587 - src.email_notification - ERROR - Failed to send spoof alert email: [Errno 8] nodename nor servname provided, or not known
+2025-08-17 21:12:12,587 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250817_211212_spoof_attempt.jpg
+2025-08-17 21:12:12,587 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250817_211212_spoof_attempt.jpg
+2025-08-17 21:12:12,694 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:12,793 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:12,895 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:12,992 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:13,095 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:13,195 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:13,206 - src.security_event_handler - INFO - ✅ Successful attendance: hjg (110595) (confidence: 0.53)
+2025-08-17 21:12:13,218 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-08-17 21:12:13,293 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:13,395 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:13,493 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:13,593 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:13,692 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:13,793 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:13,893 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:13,994 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:14,093 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:14,296 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:14,394 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:14,491 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:14,693 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:14,893 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:14,992 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:15,125 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,125 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,125 - src.security_event_handler - INFO - ❓ Unknown user detected
+2025-08-17 21:12:15,126 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,126 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,129 - src.sound_manager - INFO - Playing unknown sound for 2.0 seconds
+2025-08-17 21:12:15,220 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,221 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,294 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,294 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,384 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,384 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,385 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,385 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,385 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,385 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,461 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,461 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,526 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,527 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:15,587 - src.security_event_handler - WARNING - 🚫 SPOOF ATTEMPT: Person at position (446,158) - Face size: 104x104 - Phone Screen (score: 0.80)
+2025-08-17 21:12:15,587 - src.email_notification - INFO - Sending spoof alert email for: Person at position (446,158) - Face size: 104x104 (Type: Phone Screen, Confidence: 0.80)
+2025-08-17 21:12:15,589 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250817_211215.jpg (size: 134631 bytes)
+2025-08-17 21:12:15,589 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:15,591 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x15314ff10>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:15,592 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:15,595 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fc08e0>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:15,617 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250817_211215.jpg
+2025-08-17 21:12:15,618 - src.sound_manager - INFO - Playing spoof sound for 2.0 seconds
+2025-08-17 21:12:15,619 - src.email_notification - ERROR - Failed to send spoof alert email: [Errno 8] nodename nor servname provided, or not known
+2025-08-17 21:12:15,620 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250817_211215_spoof_attempt.jpg
+2025-08-17 21:12:15,620 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250817_211215_spoof_attempt.jpg
+2025-08-17 21:12:15,737 - src.security_event_handler - INFO - ✅ Successful attendance: hjg (110595) (confidence: 0.57)
+2025-08-17 21:12:15,748 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-08-17 21:12:16,144 - src.security_event_handler - INFO - ✅ Successful attendance: jh (921740) (confidence: 0.65)
+2025-08-17 21:12:16,156 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-08-17 21:12:16,453 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:16,454 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:16,753 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:16,753 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:16,854 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:16,854 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:16,854 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:16,854 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,056 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,056 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,056 - src.security_event_handler - INFO - ❓ Unknown user detected
+2025-08-17 21:12:17,068 - src.sound_manager - INFO - Playing unknown sound for 2.0 seconds
+2025-08-17 21:12:17,228 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,228 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,395 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,395 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,483 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,483 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,589 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,589 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,589 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,589 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,787 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,787 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,886 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,886 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,987 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:17,987 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:18,086 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:18,087 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:18,089 - src.security_event_handler - CRITICAL - 🚨 SECURITY ALERT: Person at position (446,158) - Face size: 104x104 - Repeated spoof attempts from Person at position (446,158) - Face size: 104x104
+2025-08-17 21:12:18,089 - src.email_notification - INFO - Sending spoof alert email for: 🚨 URGENT - Person at position (446,158) - Face size: 104x104 (Reason: Repeated spoof attempts from Person at position (446,158) - Face size: 104x104)
+2025-08-17 21:12:18,091 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250817_211218.jpg (size: 134733 bytes)
+2025-08-17 21:12:18,091 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:18,093 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fc0970>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:18,094 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:18,095 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x153161490>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:18,097 - src.sound_manager - INFO - Playing siren sound for 2.0 seconds
+2025-08-17 21:12:18,100 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250817_211218.jpg
+2025-08-17 21:12:18,100 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250817_211218_siren_attempt.jpg
+2025-08-17 21:12:18,100 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250817_211218_siren_attempt.jpg
+2025-08-17 21:12:18,101 - src.email_notification - ERROR - Failed to send spoof alert email: [Errno 8] nodename nor servname provided, or not known
+2025-08-17 21:12:18,285 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:18,285 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:18,362 - src.face_recognizer - ERROR - Failed to extract face embedding: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:18,362 - src.face_recognizer - ERROR - Face recognition failed: OpenCV(4.12.0) /Users/xperience/GHA-Actions-OpenCV/_work/opencv-python/opencv-python/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+2025-08-17 21:12:18,421 - src.security_event_handler - WARNING - 🚫 SPOOF ATTEMPT: Person at position (305,137) - Face size: 216x216 - Phone Screen (score: 0.80)
+2025-08-17 21:12:18,421 - src.email_notification - INFO - Sending spoof alert email for: Person at position (305,137) - Face size: 216x216 (Type: Phone Screen, Confidence: 0.80)
+2025-08-17 21:12:18,422 - src.sound_manager - INFO - Playing spoof sound for 2.0 seconds
+2025-08-17 21:12:18,423 - src.email_notification - INFO - Spoof attempt image saved: /var/folders/z1/h7lrwbcn6l3_q9h1frgg860h0000gn/T/spoof_attempt_20250817_211218.jpg (size: 132507 bytes)
+2025-08-17 21:12:18,424 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:18,424 - src.sound_manager - INFO - Spoof attempt image saved: spoof_attempt_20250817_211218_spoof_attempt.jpg
+2025-08-17 21:12:18,424 - src.sound_manager - INFO - Spoof attempt image saved: data/spoof_images/spoof_attempt_20250817_211218_spoof_attempt.jpg
+2025-08-17 21:12:18,426 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fb9f70>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:18,427 - src.location_service - INFO - Manual location: Main Office Building - Reception Area
+2025-08-17 21:12:18,428 - src.location_service - WARNING - Failed to get IP location: HTTPConnectionPool(host='ip-api.com', port=80): Max retries exceeded with url: /json/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x179fb9460>: Failed to resolve 'ip-api.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-17 21:12:18,430 - src.email_notification - INFO - Image attached to email: spoof_attempt_20250817_211218.jpg
+2025-08-17 21:12:18,431 - src.email_notification - ERROR - Failed to send spoof alert email: [Errno 8] nodename nor servname provided, or not known
+2025-08-17 21:12:18,749 - src.security_event_handler - INFO - ✅ Successful attendance: jh (921740) (confidence: 0.60)
+2025-08-17 21:12:18,761 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-08-17 21:12:19,926 - src.security_event_handler - INFO - ✅ Successful attendance: hjg (110595) (confidence: 0.57)
+2025-08-17 21:12:19,938 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-08-17 21:12:20,142 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:20,240 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:20,342 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:20,440 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:20,544 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:20,741 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:20,754 - src.security_event_handler - INFO - ✅ Successful attendance: jh (921740) (confidence: 0.63)
+2025-08-17 21:12:20,766 - src.sound_manager - INFO - Playing success sound for 2.0 seconds
+2025-08-17 21:12:20,840 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:20,938 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:21,142 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:21,242 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:21,340 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:21,444 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:21,540 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:21,643 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:21,743 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:21,841 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:21,941 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:22,044 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:22,143 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:12:22,476 - __main__ - INFO - Application closed normally

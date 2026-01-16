@@ -1,0 +1,57 @@
+2025-09-10 14:49:41,084 - __main__ - INFO - Initializing Facial Attendance System...
+2025-09-10 14:49:41,554 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-09-10 14:49:41,554 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-09-10 14:49:41,556 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-09-10 14:49:41,556 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-09-10 14:49:41,556 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-09-10 14:49:41,556 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-09-10 14:49:42,352 - src.sound_manager - INFO - Pygame mixer initialized successfully
+2025-09-10 14:49:42,352 - src.email_notification - INFO - Email configuration loaded
+2025-09-10 14:49:42,353 - src.location_service - INFO - Location configuration loaded
+2025-09-10 14:49:42,353 - src.location_service - INFO - Location service enabled
+2025-09-10 14:49:42,353 - src.email_notification - INFO - Location service initialized for email notifications
+2025-09-10 14:49:42,353 - src.email_notification - INFO - Email notifications enabled
+2025-09-10 14:49:42,353 - __main__ - INFO - Loading registered user data...
+2025-09-10 14:49:42,353 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-09-10 14:49:42,353 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-09-10 14:49:42,353 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-09-10 14:49:42,353 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-09-10 14:49:42,353 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-09-10 14:49:42,353 - __main__ - INFO - Successfully loaded 3 registered users
+2025-09-10 14:49:42,353 - __main__ - INFO -   - jh (ID: 921740) - Encoding ready
+2025-09-10 14:49:42,353 - __main__ - INFO -   - praveen (ID: 407818) - Encoding ready
+2025-09-10 14:49:42,353 - __main__ - INFO -   - hjg (ID: 110595) - Encoding ready
+2025-09-10 14:49:42,354 - __main__ - INFO - System initialization completed successfully
+2025-09-10 14:49:42,354 - __main__ - INFO - Starting in GUI mode
+2025-09-10 14:49:42,355 - __main__ - INFO - Loading Complete GUI
+2025-09-10 14:49:43,091 - src.sound_manager - INFO - Pygame mixer initialized successfully
+2025-09-10 14:49:43,091 - src.email_notification - INFO - Email configuration loaded
+2025-09-10 14:49:43,091 - src.location_service - INFO - Location configuration loaded
+2025-09-10 14:49:43,091 - src.location_service - INFO - Location service enabled
+2025-09-10 14:49:43,091 - src.email_notification - INFO - Location service initialized for email notifications
+2025-09-10 14:49:43,091 - src.email_notification - INFO - Email notifications enabled
+2025-09-10 14:49:43,091 - src.security_event_handler - INFO - Security Event Handler initialized
+2025-09-10 14:49:43,091 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-09-10 14:49:43,091 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-09-10 14:49:43,092 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-09-10 14:49:43,092 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-09-10 14:49:43,092 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-09-10 14:49:53,402 - face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-09-10 14:49:53,402 - face_recognizer - INFO - Cleared all known face encodings
+2025-09-10 14:49:53,403 - face_recognizer - INFO - Loaded encoding for user 921740
+2025-09-10 14:49:53,403 - face_recognizer - INFO - Loaded encoding for user 407818
+2025-09-10 14:49:53,403 - face_recognizer - INFO - Loaded encoding for user 110595
+2025-09-10 14:49:53,403 - face_recognizer - INFO - Reloaded 3 user face encodings
+2025-09-10 14:50:09,696 - face_recognizer - INFO - Cleared all known face encodings
+2025-09-10 14:50:09,697 - face_recognizer - INFO - Loaded encoding for user 921740
+2025-09-10 14:50:09,697 - face_recognizer - INFO - Loaded encoding for user 908346
+2025-09-10 14:50:09,697 - face_recognizer - INFO - Loaded encoding for user 407818
+2025-09-10 14:50:09,697 - face_recognizer - INFO - Loaded encoding for user 110595
+2025-09-10 14:50:09,697 - face_recognizer - INFO - Reloaded 4 user face encodings
+2025-09-10 14:50:11,826 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-09-10 14:50:11,827 - src.face_recognizer - INFO - Loaded encoding for user 921740
+2025-09-10 14:50:11,827 - src.face_recognizer - INFO - Loaded encoding for user 908346
+2025-09-10 14:50:11,827 - src.face_recognizer - INFO - Loaded encoding for user 407818
+2025-09-10 14:50:11,827 - src.face_recognizer - INFO - Loaded encoding for user 110595
+2025-09-10 14:50:11,827 - src.face_recognizer - INFO - Reloaded 4 user face encodings
+2025-09-10 14:50:11,909 - __main__ - INFO - Application closed normally

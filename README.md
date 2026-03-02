@@ -1,40 +1,36 @@
-# AI Attendance Management System v2.0
+<div align="center">
+
+# AI Attendance System v2
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=law&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+</p>
+
+*An advanced software structure developed by Karthik Idikuda.*
+
+<br/>
+
+</div>
 
 ## Overview
-The second iteration of the AI Attendance System, featuring enhanced accuracy, real-time cloud syncing, and a dedicated mobile app for students and teachers. Optimized for large-scale institutional use.
+Cloud-synced attendance with anti-spoofing and live detection.
 
-## Features
--   **Live Recognition**: Real-time processing at high frame rates.
--   **Anti-Spoofing**: Liveness detection to prevent photo-based bypasses.
--   **Cloud Sync**: Centralized database accessible from multiple classrooms.
--   **Mobile App**: Students can view their attendance stats; teachers can manage overrides.
+<br/>
 
-## Technology Stack
--   **Vision**: OpenCV, DeepFace.
--   **Backend**: Python Flask / FastAPI.
--   **Database**: MongoDB Atlas.
--   **Mobile**: Flutter / React Native.
+## Architecture & Features
+- **Clean Architecture:** Ensures high maintainability and modular structure.
+- **Optimized Performance:** Built to handle intensive operations with minimal latency.
+- **Scalable Design:** Seamlessly adaptable for future functional expansions.
 
-## Usage Flow
-1.  **Setup**: Install cameras in classrooms connected to the central server.
-2.  **Process**: Continuously monitor and log student presence.
-3.  **Sync**: Push data to the cloud dashboard.
-4.  **Access**: Students check their app for real-time updates.
-
-## Quick Start
-```bash
-# Clone the repository
-git clone "https://github.com/Nytrynox/AI-Attendance-System-2.0.git"
-
-# Cloud Setup
-# Configure MongoDB connection string in .env
-
-# Run Server
-python app.py
-```
+<br/>
 
 ## License
-MIT License
+This project operates under the **MIT License**. See the `LICENSE` file for more details.
 
-## Author
-**Karthik Idikuda**
+---
+<div align="center">
+  <br/>
+  <i>Engineered by <b>Karthik Idikuda</b></i>
+</div>
